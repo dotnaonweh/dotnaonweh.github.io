@@ -1,3 +1,3 @@
 # dotnaonweh.github.io
 
-coretan gabut
+nga gabut
